@@ -1,0 +1,2 @@
+Shipment ID,Order ID,Buyer,Seller,Origin,Destination,Mode,Incoterm and named place,Forwarder,Carrier,ETD,ETA,Current milestone,Customs status,Delivery status,Issue owner,Next action,Due date,Last updated
+SHP-TRAIN-001,PO-TRAIN-001,Example Buyer,Example Seller,Shanghai China,Bangkok Thailand,Sea,To be agreed,Example Forwarder,To be confirmed,,,,Booking pending,Not started,Not delivered,Coordinator,Confirm cargo readiness,,,
