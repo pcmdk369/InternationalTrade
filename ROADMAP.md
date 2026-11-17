@@ -15,14 +15,25 @@ This roadmap tracks authored and quality-checked learning content. A folder or c
 - [x] Author all eight textbook lessons
 - [ ] Expand and verify English-Hindi-Thai glossary
 - [x] Create initial practical transaction-map lab
-- [ ] Add practical labs and answer keys for all outcomes
+- [x] Add stakeholder/RACI, risk-register and transaction-classification labs
 - [x] Add module knowledge assessment and integrated case
 - [ ] Independent module review and quality check
 
 ## Stage 2 — ITC-02 to ITC-04: Trade ecosystem and operations
-- [ ] Stakeholder and responsibility mapping
-- [ ] End-to-end transaction workflow
+### ITC-02 — Global Trade Ecosystem
+- [x] Author all eight textbook lessons
+- [x] Create ecosystem mapping practical
+- [x] Create channel model comparison practical
+- [ ] Expand institutional source register and practical answer exemplars
+- [ ] Independent module review and quality check
+### ITC-03 — Import & Export Operations
+- [ ] Inquiry-to-order workflow lessons
+- [ ] RFQ, quotation and purchase-order labs
+- [ ] Shipment milestone and order-closure exercises
+### ITC-04 — International Trade Terminology
 - [ ] Professional terminology workbook
+- [ ] English-Hindi-Thai pronunciation and usage examples
+- [ ] Quotation and shipping-update reading exercises
 
 ## Stage 3 — ITC-05 to ITC-08: Documents and compliance
 - [ ] Commercial and transport document guides
