@@ -25,6 +25,10 @@ By the end, learners can:
 7. [Authority, responsibility and governance](lessons/ITC-02-LES-07-authority-responsibility.md)
 8. [Module review and assessment](lessons/ITC-02-LES-08-assessment.md)
 
+## Practical labs
+- [LAB-ITC02-01 — Global ecosystem map](../../../practical-labs/LAB-ITC02-01-global-ecosystem-map.md)
+- [LAB-ITC02-02 — Channel model comparison](../../../practical-labs/LAB-ITC02-02-channel-model-comparison.md)
+
 ## Required practical portfolio
 - Ecosystem map with at least 12 participants.
 - Buyer/seller/manufacturer role comparison.
@@ -39,7 +43,7 @@ By the end, learners can:
 Knowledge quiz 20%; ecosystem map 20%; role/authority matrix 25%; integrated case 35%. Suggested pass: 70%, with critical failures on fraud, legal authority or document integrity remediated.
 
 ## Completion status
-**Lessons authored: 0/8 — Planned.** Update this status only after files exist and are reviewed.
+**Lessons authored: 8/8. Status: In Progress.** Practical labs 2/2 authored. Full portfolio execution, expanded institutional references and independent quality review remain outstanding.
 
 ## Scope note
 This is educational content, not legal, banking, insurance or customs advice. Institutional mandates, licensing and service-provider authority vary by jurisdiction and contract.
