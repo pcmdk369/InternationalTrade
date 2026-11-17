@@ -27,9 +27,11 @@ This roadmap tracks authored and quality-checked learning content. A folder or c
 - [ ] Expand institutional source register and practical answer exemplars
 - [ ] Independent module review and quality check
 ### ITC-03 — Import & Export Operations
-- [ ] Inquiry-to-order workflow lessons
-- [ ] RFQ, quotation and purchase-order labs
-- [ ] Shipment milestone and order-closure exercises
+- [x] Author all eight textbook lessons
+- [x] Create RFQ and quotation comparison lab
+- [x] Create PO and order acknowledgement control lab
+- [ ] Add milestone-tracker and order-closure practical exercises
+- [ ] Independent module review and quality check
 ### ITC-04 — International Trade Terminology
 - [ ] Professional terminology workbook
 - [ ] English-Hindi-Thai pronunciation and usage examples
