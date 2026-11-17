@@ -1,7 +1,6 @@
 # Development Roadmap
 
 ## Repository status
-
 This roadmap tracks authored and quality-checked learning content. A folder or course outline is not evidence that its lessons are complete.
 
 ## Stage 0 — Repository foundation
@@ -9,14 +8,16 @@ This roadmap tracks authored and quality-checked learning content. A folder or c
 - [x] Publish 24-module curriculum
 - [x] Define academic and lesson-writing standard
 - [ ] Add full repository index and navigation
-- [ ] Add contribution and quality-assurance process
+- [x] Add contribution guidance
+- [ ] Add automated content-quality checks
 
 ## Stage 1 — ITC-01: International Trade Fundamentals
-- [ ] Complete textbook lessons
-- [ ] English-Hindi-Thai glossary
-- [ ] Practical labs and answer keys
-- [ ] Case studies and assessments
-- [ ] Module review and quality check
+- [x] Author all eight textbook lessons
+- [ ] Expand and verify English-Hindi-Thai glossary
+- [x] Create initial practical transaction-map lab
+- [ ] Add practical labs and answer keys for all outcomes
+- [x] Add module knowledge assessment and integrated case
+- [ ] Independent module review and quality check
 
 ## Stage 2 — ITC-02 to ITC-04: Trade ecosystem and operations
 - [ ] Stakeholder and responsibility mapping
@@ -51,5 +52,4 @@ This roadmap tracks authored and quality-checked learning content. A folder or c
 - [ ] Final assessment and portfolio rubric
 
 ## Definition of done
-
 A course is complete only when all planned lessons, practical deliverables, assessment materials, answer keys/rubrics, references and quality checks are present. Maintain a clear status: Planned, In Progress, Review, or Complete.
