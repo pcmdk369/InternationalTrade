@@ -27,7 +27,7 @@ Prepare and process an inquiry/RFQ; evaluate quotations; coordinate negotiation 
 RFQ/specification pack 20%; quotation analysis 20%; PO and order-control file 25%; integrated case 35%. Suggested pass: 70%, with critical document-integrity and compliance failures remediated.
 
 ## Completion status
-**Lessons authored: 0/8 — Planned.** Update only after the lessons and practical files have been committed and reviewed.
+**Lessons authored: 8/8. Status: In Progress.** Two practical labs are authored. Additional milestone-tracker and closure exercises, answer exemplars and independent quality review remain outstanding.
 
 ## Scope note
 Operational education only. Contract formation, customs procedures, taxes, permits and legal duties depend on the jurisdictions, product and actual agreement. Obtain qualified advice where required.
